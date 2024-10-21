@@ -18,10 +18,10 @@ export default function Navbar (){
    <span className='ml-3 txl-xl'>Niba khan</span></a>
 
      <nav className="md:mr-auto md:ml-4 md:py-1 md:pl-4 md:border-1  md:border-gray-700 flex flex-wrap items-center text-base justify-center">
-      <Link className="ml-2 mr-5 hover:text-red-500" href={"http://localhost:3000"}>Home</Link>  
-      <Link className="ml-2 mr-5 hover:text-blue-500" href={"http://localhost:3000/about"}>About</Link> 
-      <Link className="ml-2 mr-5 hover:text-green-500" href={"http://localhost:3000/project"}>Project</Link>
-      <Link className="ml-2 mr-5 hover:text-yellow-500" href={"http://localhost:3000/contact"}>Contact</Link>
+      <Link className="ml-2 mr-5 hover:text-red-500" href={"/"}>Home</Link>  
+      <Link className="ml-2 mr-5 hover:text-blue-500" href={"/about"}>About</Link> 
+      <Link className="ml-2 mr-5 hover:text-green-500" href={"/project"}>Project</Link>
+      <Link className="ml-2 mr-5 hover:text-yellow-500" href={"/contact"}>Contact</Link>
      </nav>
 
 <div>
