@@ -11,7 +11,7 @@ export default function Footer() {
           <div className="image-style flex justify-center mb-6 animate-pulse">
             <Image
               id="my-image"
-              src="https://instacaptionsforall.in/wp-content/uploads/2023/11/54-2-1024x1024.jpg"
+              src="https://i.pinimg.com/736x/c1/5b/bb/c15bbb4c28faf7d391a3d28b2372d80a.jpg"
               alt="AI Engineer"
               rel="noopener noreferrer"
               height={100}
