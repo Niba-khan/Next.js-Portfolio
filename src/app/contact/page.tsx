@@ -7,8 +7,7 @@ export default function Contact (){
   return (
    
    
-    <div style={{backgroundImage:"url(https://media.tenor.com/NXQ8OEBqZ0EAAAAM/galaxy-stars.gif)", backgroundSize:"cover"}}>
-
+    <div>
 <div className='max-w-[800px] mx-auto flex flex-col lg:flex-row text-white/70 p-8 rounded-lg space-y-8 lg:space-y-0 lg:space-x-8' id='Contact'>
     <div className='flex justify-center items-center'>
         <ul className='space-y-4'>

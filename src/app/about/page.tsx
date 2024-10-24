@@ -8,7 +8,7 @@ export default function About(){
   return (
     
   
-   <div style={{backgroundImage:"url(https://media.tenor.com/NXQ8OEBqZ0EAAAAM/galaxy-stars.gif)", backgroundSize:"cover"}}>
+   <div>
    <section className='text-white'>
 
     <div className='md:grid md:grid-cols-3 gap-8 items-center py-8 px-4 sm:py-16'>

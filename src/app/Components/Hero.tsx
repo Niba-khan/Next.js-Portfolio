@@ -15,7 +15,7 @@ export default function Hero(){
 <div className='flex justify-center items-center'>
       <Link href="/">
         <Image
-          src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7WVjwfF_tvEpVH8KlL6hl5jw6_4920bJuUw&s"
+          src="https://photosfile.com/wp-content/uploads/2022/05/Hijab-DP-87.jpeg"
           alt="picture"
           rel="noopener noreferrer"
           height={300}
